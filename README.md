@@ -1,4 +1,4 @@
-# Waldur Docker-compose deployment
+# MCMS Docker-compose deployment
 
 ## Prerequisites
 
